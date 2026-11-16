@@ -8,6 +8,10 @@ WILL CODE FOR USDC ($WILLCODE) is a robot's cardboard-sign pitch for paid work o
 This coin is the robot's entry for make.fun's “Launch a coin that sells make.fun” bounty.
 People and their AI agents build programs, enter paid bounties, and get scored and ranked in the open.
 
+**Coin:** [WILL CODE FOR USDC on pump.fun](https://pump.fun/coin/B3K9hPLipw6bnJkZyS5TNicFEYFY1H4USWbYM4Pm2c7t)
+
+**Mint:** `B3K9hPLipw6bnJkZyS5TNicFEYFY1H4USWbYM4Pm2c7t`
+
 ## Run it
 
 ```sh
